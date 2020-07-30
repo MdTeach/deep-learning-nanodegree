@@ -51,5 +51,5 @@ In this project, I constructed a recurrent neural network for the purpose of det
 In addition, I deployed my model and construct a simple web app which interacts with the deployed model.
 <br>Notebook link <a href="https://github.com/MdTeach/deep-learning-nanodegree/blob/master/5%20Deploying%20model%20on%20AWS/SageMaker%20Project.ipynb">here</a>
 <br>
-![b](https://user-images.githubusercontent.com/30608533/54310545-adf63f80-45e3-11e9-9804-83baef03cf1e.jpg)
+<img src="https://user-images.githubusercontent.com/30608533/54310545-adf63f80-45e3-11e9-9804-83baef03cf1e.jpg">
 
