@@ -5,7 +5,7 @@ These are my five projects implemented during the Udacity Deep Learning Nanodegr
  
 ## 1. Predicting Bike-Sharing Data
 <p>
-In this project, a neural network from scratch ia builr to carry out a prediction problem on a 
+In this project, a neural network from scratch ia built to carry out a prediction problem on a 
 Bike Sharing Dataset.You can access the data set from here: Bike Sharing Dataset Data Set
 https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 <br>The notebook link <a href="https://github.com/MdTeach/deep-learning-nanodegree/blob/master/1%20Predicting%20Bike-Sharing%20Patterns/Predicting%20Bike-Sharing%20Patterns.ipynb">here</a>
